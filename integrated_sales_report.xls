@@ -1,0 +1,126 @@
+sale_id,product_name,category,customer_name,quantity,total_amount,profit_margin,sale_date,year,month
+1001,Wireless Mouse,Electronics,Alex Johnson,2,59.98,19.979999999999997,2024-09-01,2024,9
+1002,LED Desk Lamp,Home & Office,Emily Davis,1,49.99,14.990000000000002,2024-09-02,2024,9
+1003,Notebook Set,Stationery,Michael Brown,3,47.97,17.97,2024-09-02,2024,9
+1004,Bluetooth Speaker,Electronics,Alex Johnson,1,99.99,24.989999999999995,2024-09-03,2024,9
+1005,Wireless Mouse,Electronics,Sophia Wilson,2,59.98,19.979999999999997,2024-09-04,2024,9
+1006,LED Desk Lamp,Home & Office,Daniel Smith,4,199.96,59.96000000000001,2024-09-05,2024,9
+1007,Notebook Set,Stationery,Olivia Martin,1,15.99,5.99,2024-09-06,2024,9
+1008,Bluetooth Speaker,Electronics,Matthew Clark,5,499.95,124.94999999999999,2024-09-07,2024,9
+1009,Wireless Mouse,Electronics,Isabella Lewis,2,59.98,19.979999999999997,2024-09-08,2024,9
+1010,LED Desk Lamp,Home & Office,Ethan Walker,3,149.97,44.97,2024-09-09,2024,9
+1011,Notebook Set,Stationery,Mia Hall,2,31.98,11.98,2024-09-10,2024,9
+1012,Bluetooth Speaker,Electronics,William Young,4,399.96,99.95999999999998,2024-09-11,2024,9
+1013,Wireless Mouse,Electronics,Ava Hernandez,1,29.99,9.989999999999998,2024-09-12,2024,9
+1014,LED Desk Lamp,Home & Office,James King,5,249.95000000000002,74.95000000000002,2024-09-13,2024,9
+1015,Notebook Set,Stationery,Charlotte Wright,3,47.97,17.97,2024-09-14,2024,9
+1016,Bluetooth Speaker,Electronics,Logan Lopez,2,199.98,49.97999999999999,2024-09-15,2024,9
+1017,Wireless Mouse,Electronics,Amelia Hill,4,119.96,39.959999999999994,2024-09-16,2024,9
+1018,LED Desk Lamp,Home & Office,Benjamin Scott,1,49.99,14.990000000000002,2024-09-17,2024,9
+1019,Notebook Set,Stationery,Evelyn Green,5,79.95,29.950000000000003,2024-09-18,2024,9
+1020,Bluetooth Speaker,Electronics,Jacob Adams,3,299.96999999999997,74.96999999999997,2024-09-19,2024,9
+1021,Wireless Mouse,Electronics,Harper Baker,2,59.98,19.979999999999997,2024-09-20,2024,9
+1022,LED Desk Lamp,Home & Office,Alexander Gonzalez,4,199.96,59.96000000000001,2024-09-21,2024,9
+1023,Notebook Set,Stationery,Abigail Nelson,1,15.99,5.99,2024-09-22,2024,9
+1024,Bluetooth Speaker,Electronics,Jackson Carter,5,499.95,124.94999999999999,2024-09-23,2024,9
+1025,Wireless Mouse,Electronics,Emily Mitchell,3,89.97,29.97,2024-09-24,2024,9
+1026,LED Desk Lamp,Home & Office,Liam Perez,2,99.98,29.980000000000004,2024-09-25,2024,9
+1027,Notebook Set,Stationery,Sophia Roberts,4,63.96,23.96,2024-09-26,2024,9
+1028,Bluetooth Speaker,Electronics,Noah Turner,1,99.99,24.989999999999995,2024-09-27,2024,9
+1029,Wireless Mouse,Electronics,Grace Phillips,5,149.95,49.94999999999999,2024-09-28,2024,9
+1030,LED Desk Lamp,Home & Office,Elijah Campbell,3,149.97,44.97,2024-09-29,2024,9
+1031,Notebook Set,Stationery,Chloe Parker,2,31.98,11.98,2024-09-30,2024,9
+1032,Bluetooth Speaker,Electronics,Aiden Evans,4,399.96,99.95999999999998,2024-10-01,2024,10
+1033,Wireless Mouse,Electronics,Victoria Edwards,1,29.99,9.989999999999998,2024-10-02,2024,10
+1034,LED Desk Lamp,Home & Office,Lucas Collins,5,249.95000000000002,74.95000000000002,2024-10-03,2024,10
+1035,Notebook Set,Stationery,Penelope Stewart,3,47.97,17.97,2024-10-04,2024,10
+1036,Bluetooth Speaker,Electronics,Oliver Sanchez,2,199.98,49.97999999999999,2024-10-05,2024,10
+1037,Wireless Mouse,Electronics,Lily Morris,4,119.96,39.959999999999994,2024-10-06,2024,10
+1038,LED Desk Lamp,Home & Office,Henry Rogers,1,49.99,14.990000000000002,2024-10-07,2024,10
+1039,Notebook Set,Stationery,Ella Reed,5,79.95,29.950000000000003,2024-10-08,2024,10
+1040,Bluetooth Speaker,Electronics,Samuel Cook,3,299.96999999999997,74.96999999999997,2024-10-09,2024,10
+1041,Wireless Mouse,Electronics,Madison Morgan,2,59.98,19.979999999999997,2024-10-10,2024,10
+1042,LED Desk Lamp,Home & Office,Daniel Bell,4,199.96,59.96000000000001,2024-10-11,2024,10
+1043,Notebook Set,Stationery,Sofia Murphy,1,15.99,5.99,2024-10-12,2024,10
+1044,Bluetooth Speaker,Electronics,Joseph Bailey,5,499.95,124.94999999999999,2024-10-13,2024,10
+1045,Wireless Mouse,Electronics,Hannah Rivera,3,89.97,29.97,2024-10-14,2024,10
+1046,LED Desk Lamp,Home & Office,David Cooper,2,99.98,29.980000000000004,2024-10-15,2024,10
+1047,Notebook Set,Stationery,Aria Richardson,4,63.96,23.96,2024-10-16,2024,10
+1048,Bluetooth Speaker,Electronics,Carter Cox,1,99.99,24.989999999999995,2024-10-17,2024,10
+1049,Wireless Mouse,Electronics,Scarlett Howard,5,149.95,49.94999999999999,2024-10-18,2024,10
+1050,LED Desk Lamp,Home & Office,Owen Ward,3,149.97,44.97,2024-10-19,2024,10
+1051,Notebook Set,Stationery,Lillian Torres,2,31.98,11.98,2024-10-20,2024,10
+1052,Bluetooth Speaker,Electronics,Wyatt Peterson,4,399.96,99.95999999999998,2024-10-21,2024,10
+1053,Wireless Mouse,Electronics,Ella Gray,1,29.99,9.989999999999998,2024-10-22,2024,10
+1054,LED Desk Lamp,Home & Office,Jack Ramirez,5,249.95000000000002,74.95000000000002,2024-10-23,2024,10
+1055,Notebook Set,Stationery,Eleanor James,3,47.97,17.97,2024-10-24,2024,10
+1056,Bluetooth Speaker,Electronics,Matthew Brooks,2,199.98,49.97999999999999,2024-10-25,2024,10
+1057,Wireless Mouse,Electronics,Avery Kelly,4,119.96,39.959999999999994,2024-10-26,2024,10
+1058,LED Desk Lamp,Home & Office,Sebastian Sanders,1,49.99,14.990000000000002,2024-10-27,2024,10
+1059,Notebook Set,Stationery,Zoey Price,5,79.95,29.950000000000003,2024-10-28,2024,10
+1060,Bluetooth Speaker,Electronics,Caleb Bennett,3,299.96999999999997,74.96999999999997,2024-10-29,2024,10
+1061,Wireless Mouse,Electronics,Nora Wood,2,59.98,19.979999999999997,2024-10-30,2024,10
+1062,LED Desk Lamp,Home & Office,Andrew Barnes,4,199.96,59.96000000000001,2024-10-31,2024,10
+1063,Notebook Set,Stationery,Riley Ross,1,15.99,5.99,2024-11-01,2024,11
+1064,Bluetooth Speaker,Electronics,Isaac Henderson,5,499.95,124.94999999999999,2024-11-02,2024,11
+1065,Wireless Mouse,Electronics,Samantha Coleman,3,89.97,29.97,2024-11-03,2024,11
+1066,LED Desk Lamp,Home & Office,Ryan Jenkins,2,99.98,29.980000000000004,2024-11-04,2024,11
+1067,Notebook Set,Stationery,Leah Perry,4,63.96,23.96,2024-11-05,2024,11
+1068,Bluetooth Speaker,Electronics,Christopher Powell,1,99.99,24.989999999999995,2024-11-06,2024,11
+1069,Wireless Mouse,Electronics,Audrey Long,5,149.95,49.94999999999999,2024-11-07,2024,11
+1070,LED Desk Lamp,Home & Office,Nathan Patterson,3,149.97,44.97,2024-11-08,2024,11
+1071,Notebook Set,Stationery,Grace Hughes,2,31.98,11.98,2024-11-09,2024,11
+1072,Bluetooth Speaker,Electronics,Thomas Flores,4,399.96,99.95999999999998,2024-11-10,2024,11
+1073,Wireless Mouse,Electronics,Violet Simmons,1,29.99,9.989999999999998,2024-11-11,2024,11
+1074,LED Desk Lamp,Home & Office,Caleb Foster,5,249.95000000000002,74.95000000000002,2024-11-12,2024,11
+1075,Notebook Set,Stationery,Lily Butler,3,47.97,17.97,2024-11-13,2024,11
+1076,Bluetooth Speaker,Electronics,Jonathan Richardson,2,199.98,49.97999999999999,2024-11-14,2024,11
+1077,Wireless Mouse,Electronics,Zoe Bryant,4,119.96,39.959999999999994,2024-11-15,2024,11
+1078,LED Desk Lamp,Home & Office,Charles Alexander,1,49.99,14.990000000000002,2024-11-16,2024,11
+1079,Notebook Set,Stationery,Stella Russell,5,79.95,29.950000000000003,2024-11-17,2024,11
+1080,Bluetooth Speaker,Electronics,Christian Griffin,3,299.96999999999997,74.96999999999997,2024-11-18,2024,11
+1081,Wireless Mouse,Electronics,Evelyn Diaz,2,59.98,19.979999999999997,2024-11-19,2024,11
+1082,LED Desk Lamp,Home & Office,Aaron Hayes,4,199.96,59.96000000000001,2024-11-20,2024,11
+1083,Notebook Set,Stationery,Lucy Myers,1,15.99,5.99,2024-11-21,2024,11
+1084,Bluetooth Speaker,Electronics,Adam Ford,5,499.95,124.94999999999999,2024-11-22,2024,11
+1085,Wireless Mouse,Electronics,Victoria Hamilton,3,89.97,29.97,2024-11-23,2024,11
+1086,LED Desk Lamp,Home & Office,Isaiah Graham,2,99.98,29.980000000000004,2024-11-24,2024,11
+1087,Notebook Set,Stationery,Brooklyn Wallace,4,63.96,23.96,2024-11-25,2024,11
+1088,Bluetooth Speaker,Electronics,Nicholas West,1,99.99,24.989999999999995,2024-11-26,2024,11
+1089,Wireless Mouse,Electronics,Anna Cole,5,149.95,49.94999999999999,2024-11-27,2024,11
+1090,LED Desk Lamp,Home & Office,Jeremiah Jordan,3,149.97,44.97,2024-11-28,2024,11
+1091,Notebook Set,Stationery,Hazel Reynolds,2,31.98,11.98,2024-11-29,2024,11
+1092,Bluetooth Speaker,Electronics,Joshua Fisher,4,399.96,99.95999999999998,2024-11-30,2024,11
+1093,Wireless Mouse,Electronics,Claire Kim,1,29.99,9.989999999999998,2024-12-01,2024,12
+1094,LED Desk Lamp,Home & Office,Levi Butler,5,249.95000000000002,74.95000000000002,2024-12-02,2024,12
+1095,Notebook Set,Stationery,Aria Bennett,3,47.97,17.97,2024-12-03,2024,12
+1096,Bluetooth Speaker,Electronics,David Cox,2,199.98,49.97999999999999,2024-12-04,2024,12
+1097,Wireless Mouse,Electronics,Scarlett Nguyen,4,119.96,39.959999999999994,2024-12-05,2024,12
+1098,LED Desk Lamp,Home & Office,Isaac Brooks,1,49.99,14.990000000000002,2024-12-06,2024,12
+1099,Notebook Set,Stationery,Luna Ward,5,79.95,29.950000000000003,2024-12-07,2024,12
+1100,Bluetooth Speaker,Electronics,Julian Torres,3,299.96999999999997,74.96999999999997,2024-12-08,2024,12
+1101,Wireless Mouse,Electronics,Sadie Peterson,2,59.98,19.979999999999997,2024-12-09,2024,12
+1102,LED Desk Lamp,Home & Office,Alex Johnson,4,199.96,59.96000000000001,2024-12-10,2024,12
+1103,Notebook Set,Stationery,Emily Davis,1,15.99,5.99,2024-12-11,2024,12
+1104,Bluetooth Speaker,Electronics,Michael Brown,5,499.95,124.94999999999999,2024-12-12,2024,12
+1105,Wireless Mouse,Electronics,Sophia Wilson,3,89.97,29.97,2024-12-13,2024,12
+1106,LED Desk Lamp,Home & Office,Daniel Smith,2,99.98,29.980000000000004,2024-12-14,2024,12
+1107,Notebook Set,Stationery,Olivia Martin,4,63.96,23.96,2024-12-15,2024,12
+1108,Bluetooth Speaker,Electronics,Matthew Clark,1,99.99,24.989999999999995,2024-12-16,2024,12
+1109,Wireless Mouse,Electronics,Isabella Lewis,5,149.95,49.94999999999999,2024-12-17,2024,12
+1110,LED Desk Lamp,Home & Office,Ethan Walker,3,149.97,44.97,2024-12-18,2024,12
+1111,Notebook Set,Stationery,Mia Hall,2,31.98,11.98,2024-12-19,2024,12
+1112,Bluetooth Speaker,Electronics,William Young,4,399.96,99.95999999999998,2024-12-20,2024,12
+1113,Wireless Mouse,Electronics,Ava Hernandez,1,29.99,9.989999999999998,2024-12-21,2024,12
+1114,LED Desk Lamp,Home & Office,James King,5,249.95000000000002,74.95000000000002,2024-12-22,2024,12
+1115,Notebook Set,Stationery,Charlotte Wright,3,47.97,17.97,2024-12-23,2024,12
+1116,Bluetooth Speaker,Electronics,Logan Lopez,2,199.98,49.97999999999999,2024-12-24,2024,12
+1117,Wireless Mouse,Electronics,Amelia Hill,4,119.96,39.959999999999994,2024-12-25,2024,12
+1118,LED Desk Lamp,Home & Office,Benjamin Scott,1,49.99,14.990000000000002,2024-12-26,2024,12
+1119,Notebook Set,Stationery,Evelyn Green,5,79.95,29.950000000000003,2024-12-27,2024,12
+1120,Bluetooth Speaker,Electronics,Jacob Adams,3,299.96999999999997,74.96999999999997,2024-12-28,2024,12
+1121,Wireless Mouse,Electronics,Harper Baker,2,59.98,19.979999999999997,2024-12-29,2024,12
+1122,LED Desk Lamp,Home & Office,Alexander Gonzalez,4,199.96,59.96000000000001,2024-12-30,2024,12
+1123,Notebook Set,Stationery,Abigail Nelson,1,15.99,5.99,2024-12-31,2024,12
+1124,Bluetooth Speaker,Electronics,Jackson Carter,5,499.95,124.94999999999999,2025-01-01,2025,1
+1125,Wireless Mouse,Electronics,Emily Mitchell,3,89.97,29.97,2025-01-02,2025,1
